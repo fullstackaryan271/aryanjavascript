@@ -1,0 +1,10 @@
+let pi = Math.PI;
+console.log(pi);
+console.log(Math.random());
+console.log(Math.exp(3));
+console.log(Math.min(1,10,-1));
+console.log(Math.max(24,67,98));
+console.log(Math.abs(-10.9));
+console.log(Math.sqrt(64));
+console.log(Math.pow(3,2));
+console.log(Math.round(3.5));

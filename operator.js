@@ -1,0 +1,10 @@
+console.log(2+3);
+console.log(6*8);
+console.log(24/6);
+console.log(2%5);
+var x=2;
+console.log(++x);
+console.log(2==3);
+console.log(2>=3 && 4<3);
+console.log(2!=3 || 2==3);
+console.log(2!=3 && 5==6);

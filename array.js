@@ -1,0 +1,14 @@
+let arr = [];
+console.log(arr);
+arr = new Array(1,2,3);
+console.log(arr);
+arr.push(24);
+console.log(arr);
+arr.pop();
+console.log(arr);
+var a = arr.join("+");
+console.log(a);
+console.log(arr.shift());
+console.log(arr.reverse());
+arr1 = new Array(1,2,3,4,5,6,7,86,75,36,53,86);
+console.log(arr1.sort());
